@@ -1,6 +1,6 @@
 """
-Capture a single RGB and depth frame and save them to output.pcd in
-the libpcl PCD format. View the resulting cloud with:
+Con este codigo logras capturar una nube de puntos simple
+podras ver la nube resultante con:
 
     pcl_viewer output.pcd
 
